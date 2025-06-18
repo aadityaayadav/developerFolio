@@ -68,6 +68,14 @@
   background-color: $instagram;
 }
 
+.youtube i {
+  background-color: #FF0000;
+  color: white;         // Ensure the icon is visible
+  font-weight: normal;  // Just in case
+}
+
+
+
 /* Hover Transition */
 .twitter i:hover,
 .google i:hover,
@@ -78,6 +86,7 @@
 .instagram i:hover,
 .stack-overflow i:hover,
 .kaggle i:hover,
+.youtube i:hover,
 .medium i:hover {
   background-color: $textColor;
 }
