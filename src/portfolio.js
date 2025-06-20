@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Machine Learning developer from Gwalior, India. Skilled in AI, Python, and building data-driven solutions."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/15WJBxr91w3XFE5WJAJFX2PfcueDW7paR/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/14fdHKe4IToIfC46qYSGiwx_edTt3bvNR/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
